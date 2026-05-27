@@ -1,0 +1,18 @@
+# 苹果AI相关域名
+DOMAIN-SUFFIX,guzzoni.apple.com
+DOMAIN-SUFFIX,smoot.apple.com
+DOMAIN-SUFFIX,apple-relay.apple.com
+DOMAIN-SUFFIX,gspe1-ssl.ls.apple.com
+DOMAIN-SUFFIX,apple-relay.akamaized.net
+DOMAIN-SUFFIX,apple-relay.mask.apple-dns.net
+DOMAIN-SUFFIX,apple-intelligence.apple.com
+DOMAIN-SUFFIX,ai.apple.com
+DOMAIN-SUFFIX,oaiusercontent.com
+# 其他相关域名
+DOMAIN-SUFFIX,openai.com
+DOMAIN-SUFFIX,api.openai.com
+DOMAIN-SUFFIX,cdn.openai.com
+DOMAIN-SUFFIX,apple-relay.cloudflare.com
+DOMAIN-SUFFIX,apple-relay.fastly-edge.com
+DOMAIN-SUFFIX,cp4.cloudflare.com
+ 
